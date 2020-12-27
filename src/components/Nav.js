@@ -1,4 +1,5 @@
 import React from "react";
+import Helmet from "react-helmet";
 
 function Nav() {
   return (
@@ -78,6 +79,17 @@ function Nav() {
           </button>
         </div>
       </nav>
+      <Helmet>
+        <script src="lib/jquery/jquery.min.js"></script>
+        <script src="lib/jquery/jquery-migrate.min.js"></script>
+        <script src="lib/popper/popper.min.js"></script>
+        <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/scrollreveal/scrollreveal.min.js"></script>
+        <script src="contactform/contactform.js"></script>
+        <script src="js/main.js"></script>
+      </Helmet>
     </div>
   );
 }
