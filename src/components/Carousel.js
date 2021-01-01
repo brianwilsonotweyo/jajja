@@ -36,7 +36,7 @@ function Carousel() {
         <div class="carousel-item-b">
           <div class="card-box-a card-shadow">
             <div class="img-box-a">
-              <img src="img/spell- (3).jpg" alt="" class="img-a img-fluid" />
+              <img src="img/spell- (1).jpg" alt="" class="img-a img-fluid" />
             </div>
             <div class="card-overlay">
               <div class="card-overlay-a-content">
@@ -65,7 +65,7 @@ function Carousel() {
         <div class="carousel-item-b">
           <div class="card-box-a card-shadow">
             <div class="img-box-a">
-              <img src="img/spell- (2).jpg" alt="" class="img-a img-fluid" />
+              <img src="img/spell- (1).jpg" alt="" class="img-a img-fluid" />
             </div>
             <div class="card-overlay">
               <div class="card-overlay-a-content">
@@ -95,7 +95,7 @@ function Carousel() {
         <div class="carousel-item-b">
           <div class="card-box-a card-shadow">
             <div class="img-box-a">
-              <img src="img/spell- (5).jpg" alt="" class="img-a img-fluid" />
+              <img src="img/spell- (1).jpg" alt="" class="img-a img-fluid" />
             </div>
             <div class="card-overlay">
               <div class="card-overlay-a-content">
@@ -125,7 +125,7 @@ function Carousel() {
         <div class="carousel-item-b">
           <div class="card-box-a card-shadow">
             <div class="img-box-a">
-              <img src="img/spell- (4).jpg" alt="" class="img-a img-fluid" />
+              <img src="img/spell- (1).jpg" alt="" class="img-a img-fluid" />
             </div>
             <div class="card-overlay">
               <div class="card-overlay-a-content">

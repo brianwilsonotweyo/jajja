@@ -9,16 +9,18 @@ import Nav from "./components/Nav";
 import Pay from "./components/Pay";
 import Search from "./components/Search";
 import Services from "./components/Services";
+import Testimon from "./components/Testimon";
 
 function App() {
   return (
     <div>
       <Search />
       <Nav />
-      {/* <Carousel/> */}
+      <Carousel/>
       <Jajja/>
       <Services/>
       <Agents/>
+      <Testimon/>
       <Pay/>
       <Footer/>
       <Foot/>

@@ -4,6 +4,7 @@ import Helmet from "react-helmet";
 function Nav() {
   return (
     <div>
+      <div class="click-closed"></div>
       <nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
         <div class="container">
           <button
@@ -58,14 +59,14 @@ function Nav() {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  CONTACT ME
+                  TESTIMONIALS
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  +256709916366
+                  CONTACT
                 </a>
-              </li>
+              </li>              
             </ul>
           </div>
           <button

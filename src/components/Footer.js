@@ -28,7 +28,7 @@ function Footer() {
                             class="form-control form-control-lg form-control-a"
                             placeholder="Your Name"
                             data-rule="minlen:4"
-                            data-msg="Please enter at least 4 chars"
+                            data-msg="Please enter your Full Name"
                           />
                           <div class="validation"></div>
                         </div>
@@ -41,7 +41,7 @@ function Footer() {
                             class="form-control form-control-lg form-control-a"
                             placeholder="Your Email"
                             data-rule="email"
-                            data-msg="Please enter a valid email"
+                            data-msg="Please enter your valid email"
                           />
                           <div class="validation"></div>
                         </div>
@@ -54,7 +54,7 @@ function Footer() {
                             class="form-control form-control-lg form-control-a"
                             placeholder="Subject"
                             data-rule="minlen:4"
-                            data-msg="Please enter at least 8 chars of subject"
+                            data-msg="What do you want to find Out"
                           />
                           <div class="validation"></div>
                         </div>
@@ -68,7 +68,7 @@ function Footer() {
                             cols="45"
                             rows="8"
                             data-rule="required"
-                            data-msg="Please write something for us"
+                            data-msg="Please write something for me"
                             placeholder="Message"
                           ></textarea>
                           <div class="validation"></div>
@@ -89,16 +89,16 @@ function Footer() {
                     </div>
                     <div class="icon-box-content table-cell">
                       <div class="icon-box-title">
-                        <h4 class="icon-title">  Say Hello To Jajja</h4>
+                        <h4 class="icon-title">  Say Hello To Jajja Walu</h4>
                       </div>
                       <div class="icon-box-content">
                         <p class="mb-1">
                           Email.
-                          <span class="color-a">jajjawala@gmail.com</span>
+                          <span class="color-a">jajjawalu312@gmail.com</span>
                         </p>
                         <p class="mb-1">
                           Phone.
-                          <span class="color-a">+256709916366</span>
+                          <span class="color-a">+256775121747</span>
                         </p>
                       </div>
                     </div>
