@@ -36,10 +36,10 @@ function Testimon() {
                         explained my marital challenges to her, she instructed
                         and directed me to contact this great powerful spell
                         caster called Jajja Walu, The main reason why she
-                        instructed me to contact Dr Raypower was because in
+                        instructed me to contact Jajja Walu was because in
                         recent times she have read some testimonies on the
                         internet which some people has written about the
-                        powerful spell caster Dr Raypower and i was so pleased
+                        powerful spell caster Jajja Walu and i was so pleased
                         and i decided to seek for assistance from him which he
                         did a perfect job by casting a spell on my husband and
                         utilize the powers of the other woman which made him to
@@ -73,10 +73,10 @@ function Testimon() {
                         in her apartment without caring for me and our lovely
                         daughter. I had to do 3 shifts every day to pay my bills
                         and also take care of my daughter. Last month, I came
-                        across an article online saying how Lord Zakuza as been
+                        across an article online saying how Jajja Walu as been
                         so helpful to a lots of people in the restoration to
                         their broken love lives. I contacted him through this
-                        Email: Lordzakuza7@gmail.com and he told me that he will
+                        Email: jajjawalu312@gmail.com and he told me that he will
                         restore my marriage within 48 hours with his magical
                         powers and I believed in his words that my husband will
                         come back and “wow”, within 48 hours after I contacted
@@ -152,7 +152,7 @@ function Testimon() {
                         broke-up with me if I dare question him about his affair
                         with other girls, I was totally devastated and confused
                         until an old friend of mine told me about a spell caster
-                        on the internet DR GREAT who help people with their
+                        on the internet Jajja Walu who helps people with their
                         relationship and marriage problem by the powers of love
                         Spells, At first I doubted If such thing ever exists but
                         decided to give it a try, When I contact him, he told me
@@ -221,10 +221,10 @@ function Testimon() {
                         the spell caster to tell him my problems. In just 2
                         days, my husband was back to me. I just want to say
                         thank you to this truthful and sincere spell caster, sir
-                        all you told me have come to pass and thank you Dr Jumba
+                        all you told me have come to pass and thank you Jajja Walu
                         . Please I want to tell everyone who is looking for a
                         solution to their problems, I advise you to kindly
-                        consult Dr Jumba , he is real,he is powerful and
+                        consult Jajja Walu , he is real,he is powerful and
                         whatever the spell caster tells is what will happen,
                         because all what the spell caster told me came to pass.
                       </p>
