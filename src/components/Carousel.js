@@ -13,7 +13,7 @@ function Carousel() {
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">
+                    <a href="https://wa.me/256775121747">
                       ADAM AND EVE
                       <br /> SPELLS
                     </a>
@@ -42,7 +42,7 @@ function Carousel() {
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">
+                    <a href="https://wa.me/256775121747">
                       COME TO ME
                       <br /> SPELLS
                     </a>
@@ -52,7 +52,7 @@ function Carousel() {
                   <div class="price-box d-flex">
                     <span class="price-a">GET | NOW</span>
                   </div>
-                  <a href="property-single.html" class="link-a">
+                  <a href="https://wa.me/256775121747" class="link-a">
                     Click here to view
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
@@ -71,7 +71,7 @@ function Carousel() {
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">
+                    <a href="https://wa.me/256775121747">
                       BROKEN HEART
                       <br /> SYNDROME SPELLS
                     </a>
@@ -81,7 +81,7 @@ function Carousel() {
                   <div class="price-box d-flex">
                     <span class="price-a">GET | NOW</span>
                   </div>
-                  <a href="property-single.html" class="link-a">
+                  <a href="https://wa.me/256775121747" class="link-a">
                     Click here to view
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
@@ -101,7 +101,7 @@ function Carousel() {
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">
+                    <a href="https://wa.me/256775121747">
                       MONEY
                       <br /> SPELLS
                     </a>
@@ -111,7 +111,7 @@ function Carousel() {
                   <div class="price-box d-flex">
                     <span class="price-a">GET | NOW</span>
                   </div>
-                  <a href="property-single.html" class="link-a">
+                  <a href="https://wa.me/256775121747" class="link-a">
                     Click here to view
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
@@ -131,17 +131,17 @@ function Carousel() {
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">
+                    <a href="https://wa.me/256775121747">
                       PEACE OF
                       <br /> MIND SPELLS
                     </a>
                   </h2>
                 </div>
                 <div class="card-body-a">
-                  <div class="price-box d-flex">
+                  <div class="price-box d-flex">                  
                     <span class="price-a">GET | NOW</span>
                   </div>
-                  <a href="property-single.html" class="link-a">
+                  <a href="https://wa.me/256775121747" class="link-a">
                     Click here to view
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
