@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 function Nav() {
   return (
     <div>
-      {" "}
+      <div class="click-closed"></div>
       <nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
         <div class="container">
           <button
@@ -20,7 +20,7 @@ function Nav() {
             <span></span>
             <span></span>
           </button>
-          <a class="navbar-brand text-brand" href="index.html">
+          <a class="navbar-brand text-brand" href="#">
             JAJJA<span class="color-b">WALU</span>
           </a>
           <button
@@ -38,57 +38,35 @@ function Nav() {
           >
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" href="index.html">
+                <a class="nav-link active" href="#">
                   Home
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">
-                  About
+                <a class="nav-link" href="#">
+                  JAJJAWALU
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="property-grid.html">
-                  Property
+                <a class="nav-link" href="#">
+                  VOODOO
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="blog-grid.html">
-                  Blog
+                <a class="nav-link" href="#">
+                  SPELLS
                 </a>
-              </li>
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  Pages
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="property-single.html">
-                    Property Single
-                  </a>
-                  <a class="dropdown-item" href="blog-single.html">
-                    Blog Single
-                  </a>
-                  <a class="dropdown-item" href="agents-grid.html">
-                    Agents Grid
-                  </a>
-                  <a class="dropdown-item" href="agent-single.html">
-                    Agent Single
-                  </a>
-                </div>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">
-                  Contact
+                <a class="nav-link" href="#">
+                  TESTIMONIALS
                 </a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">
+                  CONTACT
+                </a>
+              </li>              
             </ul>
           </div>
           <button
@@ -102,6 +80,17 @@ function Nav() {
           </button>
         </div>
       </nav>
+      <Helmet>
+        <script src="lib/jquery/jquery.min.js"></script>
+        <script src="lib/jquery/jquery-migrate.min.js"></script>
+        <script src="lib/popper/popper.min.js"></script>
+        <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/scrollreveal/scrollreveal.min.js"></script>
+        <script src="contactform/contactform.js"></script>
+        <script src="js/main.js"></script>
+      </Helmet>
     </div>
   );
 }
