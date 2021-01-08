@@ -5,7 +5,6 @@ import Carousel from "./components/Carousel";
 import Foot from "./components/Foot";
 import Footer from "./components/Footer";
 import Jajja from "./components/Jajja";
-import Nav from "./components/Nav";
 import Pay from "./components/Pay";
 import Search from "./components/Search";
 import Services from "./components/Services";
@@ -15,7 +14,6 @@ function App() {
   return (
     <div>
       <Search />
-      {/* <Nav /> */}
       <Carousel/>
       <Jajja/>
       <Services/>

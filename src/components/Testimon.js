@@ -28,7 +28,7 @@ function Testimon() {
                         here to spread this good news to the entire world on how
                         I got my ex husband back. It all started when my husband
                         cheated on me with another woman unknowing to him that
-                        the woman is a wizard, the woman cast a spell on my
+                        the woman is a witch, the woman cast a spell on my
                         husband which made my husband change his feelings
                         towards me and the kids and broke our 6 years marriage.
                         I was confused and stressed because of the pains of
@@ -37,7 +37,7 @@ function Testimon() {
                         and directed me to contact this great powerful spell
                         caster called Jajja Walu, The main reason why she
                         instructed me to contact Jajja Walu was because in
-                        recent times she have read some testimonies on the
+                        recent times she had read some testimonies on the
                         internet which some people has written about the
                         powerful spell caster Jajja Walu and i was so pleased
                         and i decided to seek for assistance from him which he

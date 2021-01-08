@@ -18,10 +18,10 @@ function Jajja() {
                 voodoo gods.
               </p>
               <p>
-                He is able to successfully manifest everyone’s wishes that they
-                are truly wanting with inside of their life. she works very
+                He is able to successfully manifest everyone’s wihes that they
+                are truly wanting with inside of their life. he works very
                 closely with goddess Erzulie, the goddess of beauty and love.
-                jajjs walu works closely with this specific God to relieve her
+                jajjs walu works closely with this specific God to relieve his
                 clients of stress and to mentor them in receiving positivity and
                 light. he also works with Goddess Oshun to bring lovers to
                 reunite to receive peace and happiness with inside of their
@@ -38,13 +38,13 @@ function Jajja() {
                 negativity or forces that are connected to them. jajja walu
                 rituals are guaranteed to relieve you of anything that is
                 providing you negativity inside of your life. With jajja walus
-                great grandmother’s rituals he is able to manifest spells like
-                non-other. walu is caring and non-judgemental towards any
-                situation that she may come across.
+                great grandmothis’s rituals he is able to manifest spells like
+                non-othis. walu is caring and non-judgemental towards any
+                situation that he may come across.
               </p>
               <blockquote class="blockquote">
                 <p class="mb-4">
-                  He is very compassionate and strong about his work. Leona will
+                  He is very compassionate and strong about his work. Jajja walu will
                   guarantee you 100% manifestation within all spells. If you are
                   struggling, disappointed and feel lost with in your life and
                   desperately needing a new path and change, contact jajja walu
