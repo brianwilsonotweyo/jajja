@@ -53,7 +53,7 @@ function Testimon() {
                     </div>
                     <div class="testimonial-author-box">
                       <img
-                        src="img/mini-testimonial-1.jpg"
+                        src="img/amanda-1.jpg"
                         alt=""
                         class="testimonial-avatar"
                       />
@@ -88,7 +88,7 @@ function Testimon() {
                     </div>
                     <div class="testimonial-author-box">
                       <img
-                        src="img/mini-testimonial-1.jpg"
+                        src="img/prof- (1).jpeg"
                         alt=""
                         class="testimonial-avatar"
                       />
@@ -133,7 +133,7 @@ function Testimon() {
                     </div>
                     <div class="testimonial-author-box">
                       <img
-                        src="img/mini-testimonial-1.jpg"
+                        src="img/prof- (5).jpeg"
                         alt=""
                         class="testimonial-avatar"
                       />
@@ -166,7 +166,7 @@ function Testimon() {
                     </div>
                     <div class="testimonial-author-box">
                       <img
-                        src="img/mini-testimonial-1.jpg"
+                        src="img/prof- (3).jpeg"
                         alt=""
                         class="testimonial-avatar"
                       />
@@ -197,7 +197,7 @@ function Testimon() {
                     </div>
                     <div class="testimonial-author-box">
                       <img
-                        src="img/mini-testimonial-1.jpg"
+                        src="img/prof- (4).jpeg"
                         alt=""
                         class="testimonial-avatar"
                       />
@@ -231,7 +231,7 @@ function Testimon() {
                     </div>
                     <div class="testimonial-author-box">
                       <img
-                        src="img/mini-testimonial-1.jpg"
+                        src="img/prof- (2).jpeg"
                         alt=""
                         class="testimonial-avatar"
                       />
