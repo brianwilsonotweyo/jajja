@@ -89,16 +89,20 @@ function Footer() {
                     </div>
                     <div class="icon-box-content table-cell">
                       <div class="icon-box-title">
-                        <h4 class="icon-title">  Say Hello To Jajja Walu</h4>
+                        <h4 class="icon-title"> Say Hello To Jajja Walu</h4>
                       </div>
                       <div class="icon-box-content">
                         <p class="mb-1">
                           Email.
-                          <span class="color-a">jajjawalu312@gmail.com</span>
+                          <a href="mailto:jajjawalu312@gmail.com">
+                            <span class="color-a">jajjawalu312@gmail.com</span>
+                          </a>
                         </p>
                         <p class="mb-1">
                           Phone.
-                          <span class="color-a">+256775121747</span>
+                          <a href="tel:+256775121747">
+                            <span class="color-a">+256775121747</span>
+                          </a>
                         </p>
                       </div>
                     </div>
@@ -161,10 +165,7 @@ function Footer() {
                             </li>
                             <li class="list-inline-item">
                               <a href="#" class="link-one">
-                                <i
-                                  class="fa fa-google"
-                                  aria-hidden="true"
-                                ></i>
+                                <i class="fa fa-google" aria-hidden="true"></i>
                               </a>
                             </li>
                           </ul>

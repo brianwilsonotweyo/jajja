@@ -44,15 +44,17 @@ function Jajja() {
               </p>
               <blockquote class="blockquote">
                 <p class="mb-4">
-                  He is very compassionate and strong about his work. Jajja walu will
-                  guarantee you 100% manifestation within all spells. If you are
-                  struggling, disappointed and feel lost with in your life and
-                  desperately needing a new path and change, contact jajja walu
+                  He is very compassionate and strong about his work. Jajja walu
+                  will guarantee you 100% manifestation within all spells. If
+                  you are struggling, disappointed and feel lost with in your
+                  life and desperately needing a new path and change, contact
+                  jajja walu
                 </p>
-                <footer class="blockquote-footer">
-                  <strong>Jajja walu </strong>
-                  <cite title="Source Title"></cite>
-                </footer>
+                <p class="intro-subtitle intro-price">
+                  <a href="tel:+256775121747">
+                    <span class="price-a">Call Jajja Walu</span>
+                  </a>
+                </p>
               </blockquote>
             </div>
           </div>
