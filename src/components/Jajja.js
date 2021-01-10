@@ -50,11 +50,7 @@ function Jajja() {
                   life and desperately needing a new path and change, contact
                   jajja walu
                 </p>
-                <p class="intro-subtitle intro-price">
-                  <a href="tel:+256775121747">
-                    <span class="price-a">Call Now</span>
-                  </a>
-                </p>
+                
               </blockquote>
             </div>
           </div>

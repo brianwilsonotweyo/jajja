@@ -1074,7 +1074,8 @@ a:hover {
 .price-a {
   color: #ffffff;
   padding: 0.6rem 0.8rem;
-  border: 2px solid #eb1f1f;
+  background-color: #eb1f1f;
+  border: 2px solid#ffffff;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
