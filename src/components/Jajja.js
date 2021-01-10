@@ -52,7 +52,7 @@ function Jajja() {
                 </p>
                 <p class="intro-subtitle intro-price">
                   <a href="tel:+256775121747">
-                    <span class="price-a">Call Jajja Walu</span>
+                    <span class="price-a">Call Now</span>
                   </a>
                 </p>
               </blockquote>
