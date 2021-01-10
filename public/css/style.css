@@ -1362,6 +1362,7 @@ p {
 
 .card-box-d .content-d {
   opacity: 0;
+  font-weight: bold;
   transition: 0.5s ease-in-out;
   -webkit-transform: translateY(-40px);
   transform: translateY(-40px);
@@ -1397,6 +1398,7 @@ p {
 .card-box-d:hover .info-agents,
 .card-box-d:hover .card-footer-d {
   opacity: 1;
+  font-weight: bold;
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
@@ -1837,6 +1839,7 @@ footer .credits {
 
   .card-box-d .content-d {
     font-size: 0.8rem;
+    font-weight: bold;
     margin: 0.5rem 0;
   }
 
