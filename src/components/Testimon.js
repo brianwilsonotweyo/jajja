@@ -106,7 +106,7 @@ function Testimon() {
                         EmilySarah 16 days ago Get your husband back from the
                         other woman After Divorce or Break Up..Even If Your
                         Situation Seems Hopeless.. I just got my husband back
-                        through the help of genuine love spell caster dr unity.
+                        through the help of genuine love spell caster Jajja Walu.
                         My name is Emily Sarah am from Tx,USA. My husband left
                         me for another woman, This was just 3 years of our
                         marriage. The most painful thing is that I was pregnant
@@ -118,7 +118,7 @@ function Testimon() {
                         friend and she suggested that I should rather contact a
                         spell caster that could help me cast a spell to bring
                         him back , I had no choice than to try it. I messaged
-                        the spell caster called dr unity, and he assured me
+                        the spell caster called Jajja Walu, and he assured me
                         there was no problem and that everything will be okay
                         before 11 hours. He cast the spell and surprisingly 11
                         hours later my husband called me. I was so surprised, I
@@ -126,7 +126,7 @@ function Testimon() {
                         sorry for everything that had happened He wanted me to
                         return to him. He also said he loved me so much. I was
                         so happy and went to him that was how we started living
-                        together happily again.thanks to dr unity . if you are
+                        together happily again.thanks to Jajja Walu . if you are
                         here and your Lover is turning you down, or your husband
                         moved to another woman, do not cry anymore,
                       </p>
@@ -188,9 +188,9 @@ function Testimon() {
                         via WhatsApp I explained my situation
                         to Jajja Walu and He promised my husband will get back
                         to me within 24, as far as my heart still beats for my
-                        husband. I believed in Jajja Walu and she prepared a
-                        spell for me and my husband came back exactly when
-                        Jajja Walu mentions. He pleaded and said he needs me
+                        husband. I believed in Jajja Walu and he prepared a
+                        spell for me and my husband came back exactly how
+                        Jajja Walu mentioned. He pleaded and said he needs me
                         back and now we are living happily again for the past 9
                         months.
                       </p>
